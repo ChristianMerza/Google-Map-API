@@ -1,0 +1,30 @@
+Step 1: 
+https://developers.google.com/maps/
+
+Step 2:
+Click Google Maps JavaScript API
+
+Step 3:
+Go to the 
+https://developers.google.com/maps/documentations/javascript/adding-a-google-map
+So you can see the code "YOUR_API_KEY" Copy and Paste it
+
+Step 4:
+Go to Manage Resources where you can find the project
+or you can go @https://console.developers.google.com/projectcreate?previousPage=2Fcloud-resource-manager
+
+Step 5:
+New project! and CREATE
+
+Step 6:
+Go to  API MANAGER and click dashboard then ENABLE API'S
+CLICK GOOGLE MAPS JAVASCRIPT API
+
+Step 7:
+Then click select and SELECT the project name that you create! and enable it again.
+When you see the ABOUT THIS API, TRAFFIC AND ERRORS then you are correct.
+
+
+Step 8:
+Go to API MANAGER again and click cresendials then create API KEY there.
+then your key will be post then copy it!
